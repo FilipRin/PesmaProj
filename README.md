@@ -1,4 +1,4 @@
-# PesmaProj
+# PesmaProjC++
 ------------
 ENG
 - *Skup-The set*: consists of an arbitrary number of characters (char). It is created with the default C++ string
